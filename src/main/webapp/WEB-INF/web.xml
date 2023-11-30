@@ -24,7 +24,7 @@
 
     <servlet>
         <servlet-name>Demo</servlet-name>
-        <servlet-class>cn.seagull2.ServletDemo</servlet-class>
+        <servlet-class>top.ingrace.ServletDemo</servlet-class>
     </servlet>
 
     <servlet-mapping>

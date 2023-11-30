@@ -1,4 +1,4 @@
-package cn.seagull2;
+package top.ingrace;
 
 import javax.servlet.http.*;
 import java.io.IOException;
